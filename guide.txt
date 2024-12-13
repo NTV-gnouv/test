@@ -1,0 +1,4 @@
+sử dụng jdk 17
+trước hết vào file MailLib, chạy lệnh "./gradle build"
+sau đấy vào file MailServer, chạy lệnh "./gradle build" rồi chạy "./gradle run"
+làm tương tự với MailClient

@@ -1,0 +1,4 @@
+sử dụng Socket để kết nối, tương tác giữa client và server
+sử dụng json để xử lí params của api
+sử dụng javafx để tạo GUI và xử lí tương tác của người dùng
+sử dụng commons-io để mã hoá hình ảnh
